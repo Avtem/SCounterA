@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SCounterATest2</string>
+
+    <string name="notificationMainID">SCounterNotification</string>
+    <string name="songPath">/storage/sdcard/Music/9.mp3</string>
+</resources>
