@@ -1,4 +1,4 @@
-Source code for the android app "SCounterA"
+Source code for the android app "SCоunterА"
 
 READ ME!!!<br>
 This is my private project. I was the only person working on it, so it will not build on other machines.
